@@ -5,8 +5,8 @@ __Zoo API__ es una aplicación desarrollada en Node.js usando Express. Ofrece in
 - - -
 - - -
 ## Rutas en producción
-- - Lista de animales (Español)
-- - Ejemplo de un animal con ID 1 (Español)
+- https://zoo-api.vercel.app/es/animales - Lista de animales (Español)
+- https://zoo-api.vercel.app/es/animales/1 - Ejemplo de un animal con ID 1 (Español)
 - - -
 - - -
 
@@ -27,7 +27,7 @@ Sigue estos pasos para clonar el repositorio y ejecutar la aplicación de tu má
 
 ### 1. Clonar el repositorio
 ```
-git clone
+git clone https://github.com/cTapiaDev/zoo-api.git
 cd zoo-api
 ```
 
